@@ -1,19 +1,13 @@
-# PACMAN PROJECT
-
-### Repository for executing a basic implementation of the classic arcade game Pac-Man using using HTML5 canvas and JavaScript.
+# BUS TRACKER PROJECT
 
 ## Goal
-##### ✨ Create playable pacman game accounting for different gameplay scenarios
-##### ✨ Include edge detection
-##### ✨ Include animation
-##### ✨ Allow user to play again
+##### ✨ Create bus tracking animation on a map
 
 ## How To Run
 ##### Drag `index.html` file into browser, after cloning repo or setting up key files (3): `index.html`, `script.js`, `style.css`
 
 ## Limitations / Future Improvements 
-##### 🔍 Game doesn't fully reset (i.e. number of pellets on board) when users presses play again
-##### 🔍 Premature game completion before all pellets are eaten
+##### 🔍 Exploring map features
 
 ## Screenshots / Demo
 
