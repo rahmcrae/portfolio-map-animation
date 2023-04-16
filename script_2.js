@@ -73,7 +73,9 @@ locations.forEach(function(bus, i) {
     const bus_marker = new mapboxgl.Marker({
         'color': colors[i % colors.length],
         'rotation': bus.attributes.bearing
-    }).setLngLat([longitude, latitude]).addTo(map);
+    })
+    .setLngLat([longitude, latitude])
+    .addTo(map);
     busMarkers.push(bus_marker);
 });
 
