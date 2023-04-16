@@ -95,7 +95,6 @@ locations.forEach(function(bus, i) {
 
 // add the legend to the map
 document.getElementById('map-2').appendChild(legend);
-document.getElementById('map-2').appendChild(locations);
 
 
       // timer
